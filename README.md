@@ -2,14 +2,14 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    15.10.2023 23:00 |   10        |
+|    27.10.2024 23:00 |   10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
 - punkty uzyskanie za realizację zadania są dzielone przez **2<sup>n</sup>**.
 
 --- 
-## Roznące liczby [2 pkt]
+## Rosnące liczby [2 pkt]
 Program prosi o podanie pięciu liczb. O każdą z nich pyta oddzielnie. 
 Program przerywa działanie z odpowiednim komunikatem, jeżeli kolejna liczba nie jest większa od poprzedniej.
 
@@ -23,3 +23,4 @@ Na podstawie podanych współczynników program podaje rozwiązanie równania.
 
 ## Uwagi
 Tam gdzie to możliwe, podać rozwiązanie zadania wykorzystując instrukcję warunkową oraz wyrażenie warunkowe.
+Wykonać diagramy blokowe zaimplementowanych algorytmów, używając np. https://app.diagrams.net/, lub podobnej aplikacji.
